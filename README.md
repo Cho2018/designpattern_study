@@ -6,3 +6,9 @@
 - 상속 (ch02/sample01)
 - 위임 (ch02/sample02)
 3. Template Method: 구체적인 처리를 하위 클래스에게 위임
+
+4. Factory Method
+
+5. Singleton
+
+6. Strategy
