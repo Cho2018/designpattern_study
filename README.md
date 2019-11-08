@@ -9,6 +9,6 @@
 
 4. Factory Method
 
-5. Singleton
+5. Singleton: 단 하나의 인스턴스
 
 6. Strategy
