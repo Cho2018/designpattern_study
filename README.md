@@ -7,7 +7,7 @@
 - 위임 (ch02/sample02)
 3. Template Method: 구체적인 처리를 하위 클래스에게 위임
 
-4. Factory Method
+4. Factory Method: 인스턴스 생성을 하위 클래스에게 위임
 
 5. Singleton: 단 하나의 인스턴스
 
