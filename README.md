@@ -11,4 +11,4 @@
 
 5. Singleton: 단 하나의 인스턴스
 
-6. Strategy
+6. Strategy: 알고리즘을 동적으로 교체한다.
