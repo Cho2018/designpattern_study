@@ -13,4 +13,4 @@
 
 10. Strategy: 알고리즘을 동적으로 교체
 
-11. 
+11. Composite
