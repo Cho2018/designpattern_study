@@ -19,7 +19,7 @@ public class NightState implements State {
 
     @Override
     public void doUse(Context context) {
-        context.recordLog("비상 : 야간금고 사용!");
+        context.callSecurityCenter("비상 : 야간금고 사용!");
     }
 
     @Override
@@ -29,7 +29,7 @@ public class NightState implements State {
 
     @Override
     public void doPhone(Context context) {
-        context.callSecurityCenter("야간통화 녹음");
+        context.recordLog("야간통화 녹음");
     }
 
     public String toString() {
