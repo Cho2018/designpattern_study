@@ -1,7 +1,5 @@
 # designpattern_study
 2019 '디자인 패턴' 수강 통한 공부
->- 언어: Java
->- tool: Eclipse, IntelliJ
 1. Iterator: 하나씩 열거하면서 처리
 
 2. Adapter: 필요한 형태로 수정해서 재활용
